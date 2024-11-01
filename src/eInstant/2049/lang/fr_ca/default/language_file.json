@@ -1,0 +1,46 @@
+{
+	"version": "9.21.2016-SH-NZ",
+	"ui": {
+		"balance": "SOLDE",
+		"wager": "CO\u00dbT DU BILLET",
+		"demo": "ESSAYER",
+		"wins": "GAIN",
+		"demoWins": "GAINS ARGENT FICTIF",
+		"buy": "ACHETER",
+		"try": "ESSAYER",
+		"revealAll": "JEU AUTO",
+		"revealAllStop": "ARR\u00caTER",
+		"exit": "QUITTER",
+		"playForMoney": "PASSER AU MODE ARGENT R\u00c9EL"
+	},
+	"game": {
+		"turnsLeftPlural": "Essais\nrestants",
+		"turnsLeftSingular": "Essais\nrestant",
+		"goButton": "GO",
+		"statusBar": {
+			"winner": "",
+			"tryWin": "",
+			"nonWin": ""
+		}
+	},
+	"help": {
+		"title": "COMMENT JOUER",
+		"text": "Choisissez sur GO pour viser un cube, une bombe ou une \u00e9toile. Si vous visez un cube, vous amassez ce cube et tous les cubes adjacents de la m\u00eame couleur.\n\n\nSi vous visez une bombe, vous amassez tous les cubes adjacents \u00e0 cette bombe.\n\n\n\nSi vous visez une \u00e9toile, vous gagnez instantan\u00e9ment!\n\n\nSi vous amassez assez de cubes de la m\u00eame couleur, vous gagnez aussi!",
+		"bombPos": 189,
+		"IWPos": 272
+	},
+	"result": {
+		"congratulations": "F\u00e9licitations!",
+		"thanksForPlaying": "Merci de jouer!",
+		"instantWin": "Gain \u00c9toile",
+		"cubeWin": "Gain Cube",
+		"winText": "Vous avez gagn\u00e9",
+		"demoWinText": "Vous auriez pu gagner",
+		"loseText": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+		"prizeSuffix_buy": "!",
+		"prizeSuffix_try": "."
+	},
+	"error": {
+		"errorCode": "CODE D\u2019ERREUR\u00a0: {0}\n\n{1}\n\n{2}"
+	}
+}

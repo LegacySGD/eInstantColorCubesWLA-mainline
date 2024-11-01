@@ -1,0 +1,45 @@
+{
+	"ui":{
+		"balance":"余额",
+		"wager":"单注金额",
+		"demo":"演示",
+		"wins":"奖励",
+		"demoWins":"演示奖励",
+		"buy":"购买",
+		"try":"试玩",
+		"revealAll":"击打全部",
+		"revealAllStop":"停",
+		"exit":"退出",
+		"playForMoney":"现金游戏"
+	},
+	"game":{
+		"turnsLeftPlural":"剩余转",
+		"turnsLeftSingular":"其余的转",
+		"goButton":"走",
+		"statusBar":{
+			"winner":"",
+			"tryWin":"",
+			"nonWin":""
+		}
+	},
+	"help":{
+		"title":"规则说明",
+		"text":"规则非常简单：击打这些地鼠!\n\n当你成功的打到一只地鼠，你会获得一个相应的分数奖励.\n\n只要打出3个相同分数就能赢取相应奖金!",
+		"bombPos":189,
+		"IWPos":272
+	},
+	"result":{		
+		"congratulations":"恭喜!",
+		"thanksForPlaying":"感谢参与!",
+		"instantWin":"即时赢",
+		"cubeWin":"立方体 赢",
+		"winText":"你赢了",
+		"demoWinText":"你可以赢得",
+		"loseText":"下次运气更好",
+		"prizeSuffix_buy":"!",
+		"prizeSuffix_try":"."
+	},
+	"error":{
+		"errorCode":"错误代码: {0}\n\n{1}\n\n{2}"
+	}
+}

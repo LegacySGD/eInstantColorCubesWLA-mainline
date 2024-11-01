@@ -1,0 +1,46 @@
+{
+  "version": "9.21.2016-SH-NZ",
+  "ui": {
+    "balance": "SOLDE",
+    "wager": "COÛT DU BILLET",
+    "demo": "TESTER",
+    "wins": "GAIN",
+    "demoWins": "GAIN DÉMO",
+    "buy": "ACHETER",
+    "try": "TESTER",
+    "revealAll": "TOUR AUTO",
+    "revealAllStop": "ARRÊTER",
+    "exit": "QUITTER",
+    "playForMoney": "PASSER EN ARGENT RÉEL"
+  },
+  "game": {
+    "turnsLeftPlural": "Tours \nrestants",
+    "turnsLeftSingular": "Tour \nrestant",
+    "goButton": "GO",
+    "statusBar": {
+      "winner": "",
+      "tryWin": "",
+      "nonWin": ""
+    }
+  },
+  "help": {
+    "title": "COMMENT JOUER",
+    "text": "Utilisez le bouton GO pour cibler un cube, une bombe ou une étoile. Si vous ciblez un cube, tous les cubes adjacents et de la même couleur sont collectés en plus de celui-ci.\n\n\nSi vous ciblez une bombe, tous les cubes adjacents à la bombe sont collectés.\n\n\n\nSi vous ciblez une étoile, vous gagnez immédiatement sa valeur !\n\n\nL'autre façon de gagner consiste évidemment à collecter suffisamment de cubes de la même couleur !",
+    "bombPos": 189,
+    "IWPos": 272
+  },
+  "result": {
+    "congratulations": "Félicitations !",
+    "thanksForPlaying": "Merci d'avoir joué !",
+    "instantWin": "Gains des étoiles",
+    "cubeWin": "Gains des cubes",
+    "winText": "Vous avez gagné",
+    "demoWinText": "Vous auriez pu gagner",
+    "loseText": "LA PROCHAINE FOIS \nSERA LA BONNE",
+    "prizeSuffix_buy": " !",
+    "prizeSuffix_try": "."
+  },
+  "error": {
+    "errorCode": "CODE D'ERREUR : {0}\n\n{1}\n\n{2}"
+  }
+}

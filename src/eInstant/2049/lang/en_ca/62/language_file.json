@@ -1,0 +1,46 @@
+{
+	"version": "2-15-2017-1:43PM-SM-en-ca-62",
+	"ui": {
+		"balance": "",
+		"wager": "WAGER AMOUNT",
+		"demo": "",
+		"wins": "WINS",
+		"demoWins": "",
+		"buy": "PLAY",
+		"try": "",
+		"revealAll": "AUTO PLAY",
+		"revealAllStop": "STOP",
+		"exit": "EXIT",
+		"playForMoney": ""
+	},
+	"game": {
+		"turnsLeftPlural": "Turns\nRemaining",
+		"turnsLeftSingular": "Turn\nRemaining",
+		"goButton": "GO",
+		"statusBar": {
+			"winner": "",
+			"tryWin": "",
+			"nonWin": ""
+		}
+	},
+	"help": {
+		"title": "HOW TO PLAY",
+		"text": "Press GO to pinpoint and collect a cube. Any adjacent cubes of the same color are also collected.\n\n\nPinpoint a Bomb Cube and collect all the cubes around it.\n\n\n\nPinpoint a Star Cube and win instantly.\n\n\nCollect all the cubes in a row of the same color to win the corresponding prize. ",
+		"bombPos": 189,
+		"IWPos": 272
+	},
+	"result": {
+		"congratulations": "Congratulations!",
+		"thanksForPlaying": "Thanks for playing!",
+		"instantWin": "Star win",
+		"cubeWin": "Cube win",
+		"winText": "You won",
+		"demoWinText": "",
+		"loseText": "BETTER LUCK\nNEXT TIME",
+		"prizeSuffix_buy": "",
+		"prizeSuffix_try": ""
+	},
+	"error": {
+		"errorCode": "ERROR CODE: {0}\n\n{1}\n\n{2}"
+	}
+}

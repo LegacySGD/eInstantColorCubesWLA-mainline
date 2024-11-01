@@ -1,0 +1,46 @@
+{
+  "version": "9.21.2016-SH-NZ",
+  "ui": {
+    "balance": "SALDO",
+    "wager": "TICKETPRIJS",
+    "demo": "PROBEREN",
+    "wins": "PRIJS",
+    "demoWins": "DEMOPRIJS",
+    "buy": "KOPEN",
+    "try": "PROBEREN",
+    "revealAll": "AUTOSPEL",
+    "revealAllStop": "STOP",
+    "exit": "AFSLUITEN",
+    "playForMoney": "GA NAAR GELD"
+  },
+  "game": {
+    "turnsLeftPlural": "Resterende\nbeurten",
+    "turnsLeftSingular": "Resterende\nbeurt",
+    "goButton": "GA",
+    "statusBar": {
+      "winner": "",
+      "tryWin": "",
+      "nonWin": ""
+    }
+  },
+  "help": {
+    "title": "SPELREGELS",
+    "text": "Gebruik GA om een blokje, bom of ster aan te wijzen. Wijs een blokje aan om dat blokje en alle aangrenzende blokjes van dezelfde kleur te verzamelen.\n\n\nWijs een bom aan om alle aan de bom grenzende blokjes te verzamelen.\n\n\n\nWijs een ster aan om direct te winnen!\n\n\nVerzamel genoeg blokjes van dezelfde kleur, dat is een andere manier om te winnen!",
+    "bombPos": 189,
+    "IWPos": 272
+  },
+  "result": {
+    "congratulations": "Gefeliciteerd!",
+    "thanksForPlaying": "Bedankt voor het spelen!",
+    "instantWin": "Sterrenwinst",
+    "cubeWin": "Kubuswinst",
+    "winText": "U hebt gewonnen",
+    "demoWinText": "U kon winnen",
+    "loseText": "VOLGENDE KEER\nBETER",
+    "prizeSuffix_buy": "!",
+    "prizeSuffix_try": "."
+  },
+  "error": {
+    "errorCode": "FOUTCODE: {0}\n\n{1}\n\n{2}"
+  }
+}

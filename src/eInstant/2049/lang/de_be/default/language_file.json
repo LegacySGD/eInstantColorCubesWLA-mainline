@@ -1,0 +1,46 @@
+{
+  "version": "9.21.2016-SH-NZ",
+  "ui": {
+    "balance": "GUTHABEN",
+    "wager": "TICKETKOSTEN",
+    "demo": "PROBIEREN",
+    "wins": "GEWINN",
+    "demoWins": "DEMO-GEWINN",
+    "buy": "KAUFEN",
+    "try": "PROBIEREN",
+    "revealAll": "AUTO PLAY",
+    "revealAllStop": "ANHALTEN",
+    "exit": "ENDE",
+    "playForMoney": "ZU GELD VERSCHIEBEN"
+  },
+  "game": {
+    "turnsLeftPlural": "Verbleibende\nZüge",
+    "turnsLeftSingular": "Verbleibender\nZug",
+    "goButton": "LOS",
+    "statusBar": {
+      "winner": "",
+      "tryWin": "",
+      "nonWin": ""
+    }
+  },
+  "help": {
+    "title": "ANLEITUNG",
+    "text": "Klicken Sie auf LOS, um einen Würfel, eine Bombe oder einen Stern zu finden. Finden Sie einen Würfel und sammeln Sie diesen und alle anliegenden Würfel der gleichen Farbe.\n\n\nFinden Sie eine Bombe und sammeln Sie alle Würfel neben der Bombe\r\n\r\n\r\n\r\nFinden Sie einen Stern und Sie gewinnen sofort!!\n\n\nSammeln Sie genügend Würfel der gleichen Farbe und Sie haben einen weiteren Weg zum Gewinnen entdeckt!\r\n",
+    "bombPos": 189,
+    "IWPos": 272
+  },
+  "result": {
+    "congratulations": "Glückwunsch!",
+    "thanksForPlaying": "Danke fürs Spielen!",
+    "instantWin": "Stern gewinnt",
+    "cubeWin": "Würfel gewinnt",
+    "winText": "Sie haben gewonnen:",
+    "demoWinText": "Sie hätten gewinnen können:",
+    "loseText": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+    "prizeSuffix_buy": "!",
+    "prizeSuffix_try": "."
+  },
+  "error": {
+    "errorCode": "FEHLERCODE:{0}\n\n{1}\n\n{2}"
+  }
+}

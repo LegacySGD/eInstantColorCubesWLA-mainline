@@ -1,0 +1,50 @@
+{
+	"default":{			
+			"reveal_delay_seconds":					0.5,
+			"show_result_screen":					true,
+			"use_jlottery_auto_reveal":			true,
+			"self_auto_reveal_enabled":			true,
+			"seconds_delay_dismiss_result":		0,
+			"background_music_enabled":		true
+	},
+	"0":{
+			"reveal_delay_seconds":					0.5,
+			"show_result_screen":					true,
+			"use_jlottery_auto_reveal":			true,
+			"self_auto_reveal_enabled":			true,
+			"seconds_delay_dismiss_result":		0,
+			"background_music_enabled":		true
+	},
+    "12":{
+			"reveal_delay_seconds":					0.5,
+			"show_result_screen":					true,
+			"use_jlottery_auto_reveal":			true,
+			"self_auto_reveal_enabled":			true,
+			"seconds_delay_dismiss_result":		0,
+			"background_music_enabled":		true
+	},
+    "16":{
+			"reveal_delay_seconds":					0.5,
+			"show_result_screen":					true,
+			"use_jlottery_auto_reveal":			true,
+			"self_auto_reveal_enabled":			true,
+			"seconds_delay_dismiss_result":		0,
+			"background_music_enabled":		true
+	},
+	"19":{
+			"reveal_delay_seconds":					0.5,
+			"show_result_screen":					true,
+			"use_jlottery_auto_reveal":			true,
+			"self_auto_reveal_enabled":			true,
+			"seconds_delay_dismiss_result":		2,
+			"background_music_enabled":		true
+	},
+    "36":{
+			"reveal_delay_seconds":					0.5,
+			"show_result_screen":					true,
+			"use_jlottery_auto_reveal":			true,
+			"self_auto_reveal_enabled":			true,
+			"seconds_delay_dismiss_result":		0,
+			"background_music_enabled":		true
+	}
+}

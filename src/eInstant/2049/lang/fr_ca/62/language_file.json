@@ -1,0 +1,46 @@
+{
+	"version": "2-16-1017-1:04PM-SM-fr-ca-62",
+	"ui": {
+		"balance": "",
+		"wager": "MISE",
+		"demo": "",
+		"wins": "GAINS",
+		"demoWins": "",
+		"buy": "JOUER",
+		"try": "",
+		"revealAll": "JEU AUTO",
+		"revealAllStop": "ARR\u00caTER",
+		"exit": "",
+		"playForMoney": ""
+	},
+	"game": {
+		"turnsLeftPlural": "Tours\nRestants",
+		"turnsLeftSingular": "Tour\nRestant",
+		"goButton": "COMMENCER",
+		"statusBar": {
+			"winner": "",
+			"tryWin": "",
+			"nonWin": ""
+		}
+	},
+	"help": {
+		"title": "COMMENT JOUER",
+		"text": "Appuyez sur « COMMENCER » pour sélectionner et recueillir un cube. Tous les cubes adjacents de cette même couleur seront également recueillis. \n\nSélectionnez un Cube Bombe et recueillez tous les cubes qui l'entourent. \n\nSélectionnez un Cube Étoile et gagnez instantanément. \n\n\nRecueillez tous les cubes dans une rangée de la même couleur et gagnez le lot correspondant.",
+		"bombPos": 189,
+		"IWPos": 272
+	},
+	"result": {
+		"congratulations": "FÉLICITATIONS!",
+		"thanksForPlaying": "Merci d'avoir joué!",
+		"instantWin": "Gain étoile",
+		"cubeWin": "Gain cube",
+		"winText": "VOUS AVEZ GAGNÉ",
+		"demoWinText": "",
+		"loseText": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+		"prizeSuffix_buy": "",
+		"prizeSuffix_try": ""
+	},
+	"error": {
+		"errorCode": "CODE D’ERREUR: {0}\n\n{1}\n\n{2}"
+	}
+}

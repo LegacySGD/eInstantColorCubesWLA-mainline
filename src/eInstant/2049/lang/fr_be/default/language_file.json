@@ -1,0 +1,46 @@
+{
+	"version": "10.19.2016-3:01PM-SM-en_us-default",
+	"ui": {
+		"balance": "CRÉDIT",
+		"wager": "MISE",
+		"demo": "DÉMO ",
+		"wins": "GAIN",
+		"demoWins": "DÉMO ",
+		"buy": "ACHETER",
+		"try": "DÉMO",
+		"revealAll": "AUTOPLAY",
+		"revealAllStop": "ARRÊTER",
+		"exit": "QUITTER",
+		"playForMoney": "ACHETER (2 €)"
+	},
+	"game": {
+		"turnsLeftPlural": "tentatives\nrestantes",
+		"turnsLeftSingular": "tentative\nrestante",
+		"goButton": "GO",
+		"statusBar": {
+			"winner": "",
+			"tryWin": "",
+			"nonWin": ""
+		}
+	},
+	"help": {
+		"title": "COMMENT JOUER ?",
+		"text": "Cliquez sur « GO » pour commencer. Les lasers désignent un cube, une bombe ou une étoile.\nSi vous tombez sur un cube, tous les cubes adjacents de la même couleur sont détruits.\n\nSi vous tombez sur une bombe, tous les cubes adjacents à la bombe sont détruits. \n\nRécoltez autant de cubes d’une même couleur qu’indiqué dans la légende et gagnez le montant correspondant ! Plusieurs montants de gain peuvent être cumulés.\n\nSi vous tombez sur une étoile, vous gagnez le montant indiqué !",
+		"bombPos": 210,
+		"IWPos": 355
+	},
+	"result": {
+		"congratulations": "Bravo !",
+		"thanksForPlaying": "Une démo du jeu ne donne droit à aucun gain.",
+		"instantWin": "Gain étoile",
+		"cubeWin": "Cubes récoltés",
+		"winText": "Vous gagnez",
+		"demoWinText": "Total",
+		"loseText": "Dommage, pas de gain.\n\nVous n’avez pas récolté assez de cubes d’une même couleur ni trouvé d’étoile.",
+		"prizeSuffix_buy": "",
+		"prizeSuffix_try": ""
+	},
+	"error": {
+		"errorCode": "ERROR CODE: {0}\n\n{1}\n\n{2}"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"version": "10.19.2016-3:01PM-SM-en_us-default",
+	"ui": {
+		"balance": "BALANS",
+		"wager": "INZET",
+		"demo": "DEMO ",
+		"wins": "WINST",
+		"demoWins": "DEMO",
+		"buy": "KOPEN",
+		"try": "DEMO",
+		"revealAll": "AUTOPLAY",
+		"revealAllStop": "STOP",
+		"exit": "VERLATEN",
+		"playForMoney": "KOPEN (€ 2)"
+	},
+	"game": {
+		"turnsLeftPlural": "resterende\npogingen",
+		"turnsLeftSingular": "resterende\npoging",
+		"goButton": "GO",
+		"statusBar": {
+			"winner": "",
+			"tryWin": "",
+			"nonWin": ""
+		}
+	},
+	"help": {
+		"title": "HOE SPELEN?",
+		"text": "Druk op \"GO\" om te starten. De lasers duiden een kubus, een bom of een ster aan.\nKom je op een kubus uit? Dan vernietig je alle aangrenzende kubussen van dezelfde kleur.\n\nKom je op een bom uit? Dan vernietig je alle aan de bom grenzende kubussen. \n\nVerzamel het aantal kubussen van eenzelfde kleur zoals aangegeven in de legende en win het bijhorende bedrag! Meerdere winstbedragen zijn mogelijk.\n\nKom je op een ster uit? Dan win je het vermelde bedrag!",
+		"bombPos": 190,
+		"IWPos": 335
+	},
+	"result": {
+		"congratulations": "Proficiat!",
+		"thanksForPlaying": "Een demospel geeft geen recht op winst.",
+		"instantWin": "Winst ster",
+		"cubeWin": "Verzamelde kubussen",
+		"winText": "Je wint",
+		"demoWinText": "Totaal",
+		"loseText": "Helaas geen winst.\n\nJe hebt niet genoeg kubussen van eenzelfde kleur verzameld en hebt geen ster gevonden.",
+		"prizeSuffix_buy": "",
+		"prizeSuffix_try": ""
+	},
+	"error": {
+		"errorCode": "ERROR CODE: {0}\n\n{1}\n\n{2}"
+	}
+}

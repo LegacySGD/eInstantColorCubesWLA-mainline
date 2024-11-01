@@ -1,0 +1,47 @@
+{
+	"version": "7.8.2016SMSH-en-us36",
+
+	"ui":{
+		"balance":"BALANCE",
+		"wager":"TICKET COST",
+		"demo":"TRY ",
+		"wins":"WIN",
+		"demoWins":"DEMO WIN",
+		"buy":"BUY",
+		"try":"TRY",
+		"revealAll":"AUTOPLAY",
+		"revealAllStop":"STOP",
+		"exit":"EXIT",
+		"playForMoney":"MOVE TO MONEY"
+	},
+	"game":{
+		"turnsLeftPlural":"Turns\nRemaining",
+		"turnsLeftSingular":"Turn\nRemaining",
+		"goButton":"GO",
+		"statusBar":{
+			"winner":"",
+			"tryWin":"",
+			"nonWin":""
+		}
+	},
+	"help":{
+		"title":"HOW TO PLAY",
+		"text":"Press GO to pinpoint a cube and collect the pinpointed cube and any adjacent cubes of the same color.\n\n\nPinpoint a bomb and collect all the cubes around it.\n\n\n\nPinpoint a star and win instantly\n\n\nCollect the target number of any color cube and complete the cube's entire row, win the prize for that row!",
+		"bombPos":189,
+		"IWPos":272
+	},
+	"result":{
+		"congratulations":"Congratulations!",
+		"thanksForPlaying":"Thanks for playing!",
+		"instantWin":"Star Win",
+		"cubeWin":"Cube Win",
+		"winText":"You have won",
+		"demoWinText":"You could have won",
+		"loseText":"BETTER LUCK\nNEXT TIME",
+		"prizeSuffix_buy":"",
+		"prizeSuffix_try":""
+	},
+	"error":{
+		"errorCode":"{0}: {1}\n\n{2}"
+	}
+}

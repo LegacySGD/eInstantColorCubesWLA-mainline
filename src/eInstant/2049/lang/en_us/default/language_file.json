@@ -1,0 +1,46 @@
+{
+	"version": "9.21.2016-SH-NZ",
+	"ui": {
+		"balance": "BALANCE",
+		"wager": "TICKET COST",
+		"demo": "TRY ",
+		"wins": "WIN",
+		"demoWins": "DEMO WIN",
+		"buy": "BUY",
+		"try": "TRY",
+		"revealAll": "AUTO PLAY",
+		"revealAllStop": "STOP",
+		"exit": "EXIT",
+		"playForMoney": "MOVE TO MONEY"
+	},
+	"game": {
+		"turnsLeftPlural": "Turns\nRemaining",
+		"turnsLeftSingular": "Turn\nRemaining",
+		"goButton": "GO",
+		"statusBar": {
+			"winner": "",
+			"tryWin": "",
+			"nonWin": ""
+		}
+	},
+	"help": {
+		"title": "HOW TO PLAY",
+		"text": "Use GO to pinpoint a cube, a bomb, or a star. Pinpoint a cube and collect that cube and any adjacent cubes of the same color.\n\n\nPinpoint a bomb and collect all cubes adjacent to the bomb.\n\n\n\nPinpoint a star and win instantly!\n\n\nCollect enough cubes of the same color and that's another way to win!",
+		"bombPos": 189,
+		"IWPos": 272
+	},
+	"result": {
+		"congratulations": "Congratulations!",
+		"thanksForPlaying": "Thanks for playing!",
+		"instantWin": "Star Win",
+		"cubeWin": "Cube Win",
+		"winText": "You have won",
+		"demoWinText": "You could have won",
+		"loseText": "BETTER LUCK\nNEXT TIME",
+		"prizeSuffix_buy": "!",
+		"prizeSuffix_try": "."
+	},
+	"error": {
+		"errorCode": "ERROR CODE: {0}\n\n{1}\n\n{2}"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"version": "10.19.2016-3:01PM-SM-en_us-default",
+	"ui": {
+		"balance": "GUTHABEN",
+		"wager": "EINSATZ",
+		"demo": "DEMO ",
+		"wins": "GEWINN",
+		"demoWins": "DEMO",
+		"buy": "KAUFEN",
+		"try": "DEMO",
+		"revealAll": "AUTOPLAY",
+		"revealAllStop": "STOPP",
+		"exit": "BEENDEN",
+		"playForMoney": "KAUFEN (2 €)"
+	},
+	"game": {
+		"turnsLeftPlural": "verbleibende\nVersuche",
+		"turnsLeftSingular": "verbleibender\nVersuch",
+		"goButton": "GO",
+		"statusBar": {
+			"winner": "",
+			"tryWin": "",
+			"nonWin": ""
+		}
+	},
+	"help": {
+		"title": "SPIELANLEITUNG",
+		"text": "Klicken Sie auf „GO“, um zu beginnen. Die Laser zeigen auf einen Kubus, eine Bombe oder einen Stern.\nTreffen Sie einen Kubus? Dann zerstören Sie alle angrenzenden Kuben derselben Farbe.\n\nTreffen Sie eine Bombe? Dann zerstören Sie alle an die Bombe grenzenden Kuben. \n\nSammeln Sie die Anzahl der Kuben derselben Farbe, die in der Legende angegeben ist, gewinnen Sie den betreffenden Betrag! Sie können mehrere Beträge gewinnen.\n\nTreffen Sie einen Stern? Dann gewinnen Sie den angegebenen Betrag!",
+		"bombPos": 210,
+		"IWPos": 355
+	},
+	"result": {
+		"congratulations": "Glückwunsch!",
+		"thanksForPlaying": "Ein Demospiel gibt keinen Anspruch auf Gewinn.",
+		"instantWin": "Gewinn Stern",
+		"cubeWin": "Gesammelte Kuben",
+		"winText": "Sie gewinnen",
+		"demoWinText": "Gesamt",
+		"loseText": "Leider kein Gewinn.\n\nSie haben nicht genug Kuben derselben Farbe gesammelt und keinen Stern gefunden.",
+		"prizeSuffix_buy": "",
+		"prizeSuffix_try": ""
+	},
+	"error": {
+		"errorCode": "ERROR CODE: {0}\n\n{1}\n\n{2}"
+	}
+}

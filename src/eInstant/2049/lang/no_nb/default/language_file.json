@@ -1,0 +1,46 @@
+{
+  "version": "9.21.2016-SH-NZ",
+  "ui": {
+    "balance": "SALDO",
+    "wager": "BILLETTKOSTNAD",
+    "demo": "PRØV",
+    "wins": "GEVINST",
+    "demoWins": "DEMOGEVINST",
+    "buy": "KJØP",
+    "try": "PRØV",
+    "revealAll": "AUTOSPILL",
+    "revealAllStop": "STOPP",
+    "exit": "LUKK",
+    "playForMoney": "FLYTT TIL PENGER"
+  },
+  "game": {
+    "turnsLeftPlural": "Trekk\ngjenstår",
+    "turnsLeftSingular": "Trekk\ngjenstår",
+    "goButton": "GÅ",
+    "statusBar": {
+      "winner": "",
+      "tryWin": "",
+      "nonWin": ""
+    }
+  },
+  "help": {
+    "title": "HVORDAN SPILLE",
+    "text": "Trykk på GÅ for å peke ut en kube, bombe eller stjerne. Pek ut en kube og samle inn denne kuben samt alle sideliggende kuber i samme farge.\n\n\nPek ut en bombe for å samle alle kuber ved siden av bomben.\n\n\n\nPek ut en stjerne og vinn umiddelbart!\n\n\nSamle inn nok kuber av samme farge, dette er en måte å vinne på!",
+    "bombPos": 189,
+    "IWPos": 272
+  },
+  "result": {
+    "congratulations": "Gratulerer!",
+    "thanksForPlaying": "Takk for at du spilte!",
+    "instantWin": "Stjernegevinst",
+    "cubeWin": "Kubegevinst",
+    "winText": "Du har vunnet",
+    "demoWinText": "Du kunne ha vunnet",
+    "loseText": "BEDRE LYKKE\nNESTE GANG",
+    "prizeSuffix_buy": "!",
+    "prizeSuffix_try": "."
+  },
+  "error": {
+    "errorCode": "FEILKODE: {0}\n\n{1}\n\n{2}"
+  }
+}

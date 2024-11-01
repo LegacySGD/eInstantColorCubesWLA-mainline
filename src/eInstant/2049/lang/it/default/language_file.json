@@ -1,0 +1,48 @@
+{
+  "version": "2.14.2017-12:18PM-RD-default-default",
+  "ui": {
+    "balance": "Saldo:",
+    "wager": "Prezzo Biglietto:",
+    "demo": "DEMO",
+    "wins": "Vincita:",
+    "demoWins": "Vincita Demo:",
+    "buy": "ACQUISTA",
+    "try": "PROVA",
+    "revealAll": "SCOPERTA AUTOMATICA",
+    "revealAllStop": "STOP",
+    "exit": "ESCI",
+    "playForMoney": "GIOCA CON\nDENARO REALE"
+   
+  },
+  "game": {
+    "turnsLeftPlural": "Turni Rimanenti",
+    "turnsLeftSingular": "Turno Rimanente",
+    "goButton": "VAI",
+    "statusBar": {
+      "winner": "",
+      "tryWin": "",
+      "nonWin": ""
+    }
+  },
+  "help": {
+    "title": "COME SI GIOCA",
+    "text": "Premi VAI per localizzare un cubo, una bomba o una stella. Localizza un cubo per raccogliere questo e tutti quelli adiacenti (verticalmente e orizzontalmente) dello stesso colore, finché non terminano..\n\nLocalizza una bomba per collezionare tutti i cubi adiacenti alla bomba.\n\n\nLocalizza una stella per ottenere una vincita istantanea!\n\n\nUn modo alternativo per vincere: colleziona un numero sufficiente di cubi di un colore per riempire una riga!",
+    "bombPos_port": 238,
+    
+    "IWPos_land": 322
+  },
+  "result": {
+    "congratulations": "Congratulazioni!",
+    "thanksForPlaying": "Grazie per aver giocato con noi!",
+    "instantWin": "Vincita Stella",
+    "cubeWin": "Vincita Cubo",
+    "winText": "Hai vinto",
+    "demoWinText": "Avresti potuto vincere",
+    "loseText": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+    "prizeSuffix_buy": "",
+    "prizeSuffix_try": ""
+  },
+  "error": {
+    "errorCode": "CODICE ERRORE: {0}\n\n{1}\n\n{2}"
+  }
+}

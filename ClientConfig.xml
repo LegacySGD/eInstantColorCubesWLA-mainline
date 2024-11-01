@@ -1,0 +1,9 @@
+<ClientConfig>
+	<GameClient name="Color Cubes WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="ColorCubesWLAUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2049-0" />
+	<GameClient name="Color Cubes WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="ColorCubesWLAUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2049-0" />
+	<GameClient name="Color Cubes WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="ColorCubesWLAUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2049-0" />
+
+	<GameClient name="Color Cubes WLA" clientCode="mobilemini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="ColorCubesWLAUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2049-0" />
+	<GameClient name="Color Cubes WLA" clientCode="tabletmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="ColorCubesWLAUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2049-0" />
+	<GameClient name="Color Cubes WLA" clientCode="desktopmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="ColorCubesWLAUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2049-0" />
+</ClientConfig>
